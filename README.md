@@ -1,2 +1,2 @@
 # python_study
-just for python, making CLI files
+just for python, making CLI files.
